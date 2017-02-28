@@ -1,5 +1,5 @@
 
-![logo](./imgs/logo.png)
+![logo](./imgs/logo.jpg)
 	
 # Node Series
 	
