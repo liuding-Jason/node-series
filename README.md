@@ -7,3 +7,6 @@
 	for creating web applications and other HTTP servers .
 
 
+## Included Examples
+
+ - [404](404) - 404 handling
