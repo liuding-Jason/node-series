@@ -9,4 +9,6 @@
 
 ## Included Examples
 
- - [file-api](file-api) - file-api tells node.JS's file API including Open/Read/Write and so on .
+ - [file-api](file-api) - file-api tells node.JS's ***file API*** including Open/Read/Write and so on .
+ - [hello-world](hello-world) - hello-world test ***Node.JS*** .
+ - [simple-server](simple-server) - simple-server builds a simple server .
