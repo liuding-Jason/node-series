@@ -16,7 +16,7 @@ writeStream.on("finish" , function(){
 });
 
 writeStream.on("error" , function(err){
-	console.err(err);
+	console.error(err);
 });
 
 console.log("writing!\n");

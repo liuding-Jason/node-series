@@ -21,7 +21,7 @@ readStream.on("end" , function(){
 });
 
 readStream.on("error" , function(err){
-	console.err(err);
+	console.error(err);
 });
 
 console.log("reading!\n");
