@@ -15,3 +15,11 @@
  - [simple-server](simple-server) - simple-server builds a simple server .
  - [stream](stream) - stream gives read/write/pipe's API of ***data stream*** .
 
+## License
+
+(The MIT License)
+
+Copyright (c) 2016-present, Liuding, Inc.
+All rights reserved.
+
+My ZhiHu Home Page ***[柳丁Jason Chen](https://www.zhihu.com/people/liu-ding-jasonchen)*** 
