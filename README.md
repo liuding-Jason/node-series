@@ -13,6 +13,22 @@ A repository containing small examples to illustrate the use of Node for creatin
  - [simple-server](simple-server) - simple-server builds a simple server .
  - [stream](stream) - stream gives read/write/pipe's API of ***data stream*** .
 
+## Build Guide 
+
+Use node's npm package tools to install dependent resources .
+
+Supervisor could support hot and inline refresh of javaScript files .
+
+### build project
+
+	git clone https://github.com/liuding-Jason/node-series
+
+	cd express && npm install
+
+### run test egs
+	
+	supervisor hello\ world/index.js 
+
 ## Zhihu
 
 My ZhiHu Home Page ***[柳丁Jason Chen](https://www.zhihu.com/people/liu-ding-jasonchen)*** 

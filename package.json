@@ -1,0 +1,26 @@
+{
+  "name": "node-simple-use",
+  "version": "0.0.1",
+  "description": "node.JS simple usage examples ",
+  "main": "index",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuding-Jason/node-series.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "liuding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuding-Jason/node-series/issues"
+  },
+  "homepage": "https://github.com/liuding-Jason/node-series#readme",
+  "dependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
