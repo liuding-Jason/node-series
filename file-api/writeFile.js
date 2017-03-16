@@ -13,7 +13,7 @@ fs.readFile("./name.txt" , function(err , data){
 		return console.error(err);
 	}
 	console.log("开始写入!\n");
-	fs.writeFile("./name.txt" , data.toString()+" new"  , function(err){
+	fs.writeFile("./name.txt" , data.toString() + " new"  , function(err){
 		if(err){
 			return console.err(err);
 		}
