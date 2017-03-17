@@ -6,18 +6,18 @@
 A repository containing small examples to illustrate the use of Node for creating web applications and other HTTP servers .
 
 ## Included Examples
-
- - [file-api](file-api) - file-api tells node.JS's ***file API*** including Open/Read/Write and so on .
  - [hello-world](hello-world) - hello-world test ***Node.JS*** .
+ - [file-api](file-api) - file-api tells node.JS's ***file API*** including Open/Read/Write and so on .
  - [process](process) - process is a public module that operate ***CPU process*** .
  - [simple-server](simple-server) - simple-server builds a simple server .
  - [stream](stream) - stream gives read/write/pipe's API of ***data stream*** .
+ - [connect](connect) - connect is the node.JS's ***middleware*** module .
 
 ## Build Guide 
 
 Use node's npm package tools to install dependent resources .
 
-Supervisor could support hot and inline refresh of javaScript files .
+***Supervisor*** could support hot and inline refresh of javaScript files .
 
 ### build project
 

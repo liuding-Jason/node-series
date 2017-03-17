@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/liuding-Jason/node-series#readme",
   "dependencies": {
+    "connect": "^3.6.0",
     "supervisor": "^0.12.0"
   }
 }
