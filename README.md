@@ -29,6 +29,14 @@ Supervisor could support hot and inline refresh of javaScript files .
 	
 	supervisor hello\ world/index.js 
 
+### es6 compatible solution
+	
+	node index.js --harmony
+
+### to see results
+
+	http://localhost:3000
+
 ## Zhihu
 
 My ZhiHu Home Page ***[柳丁Jason Chen](https://www.zhihu.com/people/liu-ding-jasonchen)*** 
