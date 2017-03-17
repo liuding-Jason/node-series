@@ -13,15 +13,15 @@ readStream.setEncoding("UTF-8");
 
 readStream.on("data" , function(chunk){
 	data += chunk ;
-});
+}) ;
 
 readStream.on("end" , function(){
 	console.log("reading stream stops!\n");
 	console.log("data : " + data);
-});
+}) ;
 
 readStream.on("error" , function(err){
 	console.error(err);
-});
+}) ;
 
-console.log("reading!\n");
+console.log("reading!\n") ;
