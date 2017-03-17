@@ -5,6 +5,8 @@
 	
 A repository containing small examples to illustrate the use of Node for creating web applications and other HTTP servers .
 
+***
+
 ## Included Examples
  - [hello-world](hello-world) - hello-world test ***Node.JS*** .
  - [file-api](file-api) - file-api tells node.JS's ***file API*** including Open/Read/Write and so on .
@@ -20,22 +22,24 @@ Use node's npm package tools to install dependent resources .
 ***Supervisor*** could support hot and inline refresh of javaScript files .
 
 ### build project
+```bash
+git clone https://github.com/liuding-Jason/node-series
 
-	git clone https://github.com/liuding-Jason/node-series
-
-	cd express && npm install
-
+cd express && npm install
+```
 ### run test egs
-	
-	supervisor hello\ world/index.js 
-
+```bash
+supervisor hello\ world/index.js 
+```
 ### es6 compatible solution
-	
-	node index.js --harmony
-
+```bash
+node index.js --harmony
+```
 ### to see results
 
 	http://localhost:3000
+
+***
 
 ## Zhihu
 
